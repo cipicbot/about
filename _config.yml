@@ -38,7 +38,8 @@ timezone: Asia/Tehran
 include:
   - _pages
 
-url: "https://cipic.ir"
+# url: https://cipic.ir
+# baseurl: ''
 logo: "/assets/images/CipiC-Logo-org.png"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -68,7 +69,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://cipic.ir"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/cipicbot"
