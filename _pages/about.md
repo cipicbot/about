@@ -44,7 +44,9 @@ Advantages of using automated trading robots Robots never stop and have a very h
 | Ex Name | Website | Options |
 | :------------: | :------------: | :------------: |
 | OKx `(Okex)`  | <https://www.okex.com/>  | Spot - Swap - Future  |
-
+| :------------: | :------------: | :------------: |
+| Binance 'Future'  | <https://www.binance.com/>  | Spot - Margin - Future  |
+------------
 ------------
 
 ## Privacy & Security
