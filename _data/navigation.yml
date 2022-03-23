@@ -7,6 +7,8 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
-    children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+  - title: "Learn"
+    url: /learn/
+  - title: "Support"
+    url: https://cipic.ir
+    

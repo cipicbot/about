@@ -5,7 +5,7 @@ title: "About"
 
 ### CiPiC Auto Trade Bot
 
-## ==> Go To Page [CipiC WhitePaper](https://cipicbot.github.io/about/)
+## => Go To Page [CipiC WhitePaper](https://cipicbot.github.io/about/)
 
 💸 **Easier transactions with robots** CipiC
 Scalping trading requires a lot of attention and time from traders. Digital currency trading bots may help those who trade bitcoin or other digital currencies.
